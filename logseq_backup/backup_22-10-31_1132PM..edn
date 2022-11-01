@@ -1,0 +1,1790 @@
+{:version 1,
+ :blocks
+ ({:block/id #uuid "63607729-6c64-44f9-b81d-8377226e9d07",
+   :block/page-name "daocamp.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "ef1dbed8-8847-4da6-ac24-8ad80730dbef",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63607794-5708-49c3-9c19-ebe542df7fc8",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "d750fe0f-8a91-46a2-a840-daf49b1237b0",
+   :block/page-name "Contents",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "635e0d37-e9d1-41d3-a439-093b5b7f2c35",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "63607712-452a-44a9-9839-7c78152f7d5e",
+   :block/page-name "genuinedead.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "38f71d48-2a52-4521-a70a-081003a5c479",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63607768-2b47-4f25-82c6-1339069f9249",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "6360771e-1f8f-4865-841c-f0b5101408d0",
+   :block/page-name "lunaralliance.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "50342e57-a194-43e1-bd67-522a97760d06",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360777c-25e1-461b-b085-a36e8e084afc",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "6360773a-d6e2-4342-856a-b2a56850b62d",
+   :block/page-name "wickedawesomedao.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "ae3f61a5-e25a-40a0-8e33-5ed23f9da02f",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636077c0-76d9-454f-87bf-44749864ecf7",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635eebf1-bc72-4a24-af2a-e69d756f83f9",
+   :block/page-name "Point Clark, ON",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "44c01c79-4248-481a-aa31-aa621fa91a21",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635eec2e-7e35-41e3-baa9-95ffcfcaea98",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "<iframe width=\"425\" height=\"350\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=-81.85346603393556%2C44.00170567699191%2C-81.65742874145508%2C44.1466164484002&amp;layer=mapnik&amp;marker=44.07420541858124%2C-81.75544738769531\" style=\"border: 1px solid black\"></iframe>"})}
+  {:block/id #uuid "635f13d1-b6f8-4091-99fd-1ae656d430a3",
+   :block/page-name "DAOs",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "4d364d29-8f5e-466b-9593-535259911125",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360739a-9b1c-460a-b2a3-662b358d0e29",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635f11e6-3ce1-4c0f-83d3-be83a4fc727c",
+   :block/page-name "Gnosis Chain",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "dd89f6a3-cb4f-4bcb-8908-ca78690430e1",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63606336-5c70-43f8-8ab5-910574787d25",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "[epor.io](https://epor.io/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d?network=xDai)"})}
+  {:block/id #uuid "63607718-f62e-4180-8534-6d1ef628602f",
+   :block/page-name "makhnoguild.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "6d4a3a0f-2227-457f-8c39-614db7e97d54",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63607772-b5c7-4d03-8802-d54b4955eff0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "6360770f-1167-4bd3-ae47-70951b6fc8da",
+   :block/page-name "nftcommunitydao.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "0520adee-fea7-41bf-a953-f72a474da526",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63607759-728a-4488-a215-eafbeb07ed64",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-35da-4a1e-a783-83d61d670899",
+   :block/page-name "Metaguides",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-dd1a-4395-aa76-cfae325fd698",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-4227-4bb8-93ed-4353f2a550e4",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635eec0b-a21e-4568-ab7e-1e3d9319c81d",
+   :block/page-name "Phone",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "4e3c7c18-a88c-4ac6-a1bc-ad2f13cf5b53",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635f2786-6f03-4325-bded-473d1374be1e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635fb72b-6657-4739-ad5b-9ec76c0b06e3",
+   :block/page-name "Names",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "635fb72d-675f-49a4-8a8a-d10738e9ac29",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Boilerrat]]"}
+    {:block/id #uuid "635fb9d0-d63b-4f7d-a1f6-884809b3ae00",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[boilerrat.eth]]"}
+    {:block/id #uuid "635fb9d9-faf5-4d3b-8d83-7b512539d2b0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[boilerrat.lens]]"}
+    {:block/id #uuid "caa2dda0-3837-45ea-9666-7d800c40cf34",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Boiler]]"}
+    {:block/id #uuid "371c74af-bf04-4423-80c1-32b8ab681645",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Boiler(Chris)]]"}
+    {:block/id #uuid "420e47e4-8ce1-473a-a66c-651f763a6db0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Hosemaster]]"}
+    {:block/id #uuid "5a99edba-1c01-42db-98ac-25965bed2c83",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Hosemaster128]]"}
+    {:block/id #uuid "635fb755-070f-4a87-a338-03a7a7a4a751",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[_Metaguides]]"}
+    {:block/id #uuid "63607534-7b9b-442a-9b76-494f31ed821c",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Boilerrat#8898]]"})}
+  {:block/id #uuid "635e0d38-9370-4f21-9541-0bdb1a8e37ea",
+   :block/page-name "yeet",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-fb91-4af6-90ae-da3d19bd878c",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-2c32-4747-8b7c-0a39705bb8ed",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "63607730-0917-4396-b870-586ec6b439e9",
+   :block/page-name "sherpadao.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "cfd75fc9-7eda-4dfd-83a5-4860f5b717e7",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636077a6-76cc-404c-896d-e543f06d82c2",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635eec9d-6845-4a1a-8447-4361848e2ebb",
+   :block/page-name "Contact",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "53836e44-1c40-48e1-852d-bc52184631af",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635fb750-e594-423d-9a71-376a058dd9f3",
+   :block/page-name "Personas",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "a347c420-03f0-4aa4-b1b8-f11a630b0253",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636065d7-524f-46a7-9f88-42d326102f9f",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635fb310-0fcd-46eb-bbf9-558294130e92",
+   :block/page-name "pfps",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "635fb687-e91e-455e-a22a-d82be00594a6",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "https://ipfs.io/ipns/k51qzi5uqu5dhm2jhfbxacbbeo5xepgs21skmx0343lzfs9syiwpig6nst22uk"}
+    {:block/id #uuid "635fb68f-29be-4576-ba26-a4d33da7c5e4",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![jerrynotspinning_2 1.png](../assets/jerrynotspinning_2_1_1667217078648_0.png)"}
+    {:block/id #uuid "635fb6bc-d9c2-48f8-82ff-439895a8b99e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "29c53095-e250-4bd0-b418-077e577ed462",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "https://ipfs.io/ipns/k51qzi5uqu5dhm2jhfbxacbbeo5xepgs21skmx0343lzfs9syiwpig6nst22uk"}
+    {:block/id #uuid "635fb6be-a49b-49e4-b785-ecfe56371635",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![2022-10-31 07_24_45-Public Noun 65 - Public Nouns _ OpenSea — Mozilla Firefox.png](../assets/2022-10-31_07_24_45-Public_Noun_65_-_Public_Nouns_OpenSea_—_Mozilla_Firefox_1667217140407_0.png)"}
+    {:block/id #uuid "635fb84c-2299-45e8-9f61-7666e2f272b2",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "https://ipfs.io/ipns/k51qzi5uqu5dhm2jhfbxacbbeo5xepgs21skmx0343lzfs9syiwpig6nst22uk"}
+    {:block/id #uuid "635fb7d4-b841-4b3a-a556-f45c5fbdc16f",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![6b33DQkK_400x400.jpg](../assets/6b33DQkK_400x400_1667217375454_0.jpg)"})}
+  {:block/id #uuid "6360641b-12bb-41ae-9b65-d3fd0dee74ce",
+   :block/page-name "Defi",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "beabed6c-2afe-46b5-b53c-36574c8ae90e",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63608706-a8f8-44b8-ac35-c817528fe4fb",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-c333-4d16-a725-e057941e18d0",
+   :block/page-name "grant",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-67b6-4807-8741-7837dd82fadd",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-77b3-4edc-94ed-e86a6b30c764",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-1ba4-4f63-9b16-2c58a1483596",
+   :block/page-name "Lens",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-0b80-456a-aaa1-8e720b0964e4",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-109d-4ecc-8b4d-af0e44110ec5",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "[boilerrat.lens](https://www.lensfrens.xyz/boilerrat.lens)"})}
+  {:block/id #uuid "635e0d38-1c6a-4266-b726-bb91745d773b",
+   :block/page-name "GitHub",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "d4aafee0-5703-4762-abc2-bbfd4ca2f9ec",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636070c8-7427-47c7-b984-e5138f89ac87",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "https://github.com/boilerrat"}
+    {:block/id #uuid "636064ce-93e1-4a69-ada8-c497fff78813",
+     :block/properties {:background-color "pink", :heading 2},
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "636070ba-45ee-402a-af51-df978679d45a",
+       :block/properties {:background-color "yellow", :heading 3},
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "63607154-a527-4927-abca-dab3db3537a1",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "[awesome-dentralized-autonomous-organizations](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations) - A comprehensive list of resources for people wishing to participate or learn about [[DAOs]]"}
+        {:block/id #uuid "636071a1-2ba2-4fc3-9068-a2a9bbbf43d7",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "[Web3CV](https://github.com/boilerrat/Web3CV) - The [[repo]] for this [[website]]."}
+        {:block/id #uuid "636071de-0c89-4036-93b1-27d6037855d8",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "[Genuine-Dead](https://github.com/genuine-dead) - A start up organization aimed to bring web3 projects to the [[Grateful Dead]] #community. This [[repo]] is used to study potential uses for [[NFTs]] in the [[music]] industry"}],
+       :block/content "### Created"}],
+     :block/content "## [[Repositories]]"}
+    {:block/id #uuid "636070f3-cdf7-40c8-af4e-c641de692109",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63607137-f1b7-4a2a-94ec-836e159c07ed",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "636061ab-e66b-4915-9236-75ceffed288b",
+   :block/page-name "Opensea",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "e9ba8ae3-90e8-4b0e-a636-df0671ca7ae5",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636061c5-cb5e-4775-9880-2faace88d964",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "[Boilerrat's OpenSea](https://opensea.io/boilerratV2)"})}
+  {:block/id #uuid "635e0d38-8aa1-4c74-8a23-bd69e29b24e4",
+   :block/page-name "boilerrat",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-a9f0-462d-9bea-1884089c531f",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-4edc-4db3-81ba-d4bc1edac404",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[twitter]]"}
+    {:block/id #uuid "63607473-b37b-453c-860e-139416c26b09",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[github]]"}
+    {:block/id #uuid "6360747e-38e6-461d-a92e-5b0f2fadb3bd",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Telegram]]"}
+    {:block/id #uuid "636074ec-3aab-4abe-b835-bddff0397ba2",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[ENS]]"}
+    {:block/id #uuid "636074f4-bc8e-416e-9037-35af5a17aec3",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Lens]]"})}
+  {:block/id #uuid "635eec07-e6a4-4921-bebf-5809a68af246",
+   :block/page-name "Home",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "877510d9-02eb-4c35-8397-162cd801c506",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635eec17-7721-4658-8dad-bd658c1a287c",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Point Clark, ON]]"})}
+  {:block/id #uuid "635ec8fe-1ebe-45c6-9e5e-3fccf697829f",
+   :block/page-name "Moon DAO",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "30f0b143-7de0-4775-9297-0bfcff0e98dd",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635ec98a-32e9-4578-a40c-7760d7582c10",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "63607737-e01b-4820-a50f-dd71cf8e1a69",
+   :block/page-name "granthaus.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "d197d083-17bc-4878-8748-d2d7af05c7f7",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636077b8-9acb-4f72-a36b-84c70d66923f",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "6360733c-5a92-44d6-908d-07b1648adc63",
+   :block/page-name "music",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "ba25d475-22b1-4ace-8703-27ed7b3f9470",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360740b-c937-4e61-a142-be966bed9c61",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-2b79-498e-be86-0d47dcc20887",
+   :block/page-name "Operations",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-0aa9-434f-bba4-5b1c0efd777d",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-2b1b-4071-a793-b208f8af4d1d",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-e69c-4d5e-ac20-f1d0a1515ed5",
+   :block/page-name "boilerrat.lens",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "5315fcd2-0dd4-41a1-98b2-047018cf6a6c",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635f2cf7-53f6-488a-941b-3680b793f2d6",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Lens]]"})}
+  {:block/id #uuid "6360773f-1ecf-4b6c-8829-a09c9681929a",
+   :block/page-name "chriswylde.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "fe032f96-7c1c-45d5-815a-a74641f85ff8",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636077c9-9ed2-4cfa-b60c-905360ce3716",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-3267-4012-a245-c0a4a63467aa",
+   :block/page-name "Web3",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-cdf9-40c3-bfab-f91fa5a12135",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636082ed-b4d0-4d90-9afd-5550bfa382d0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![future city at night smaller.png](../assets/future_city_at_night_smaller_1667269387861_0.png)"}
+    {:block/id #uuid "635e0d38-57ba-4b3d-b2a7-d5bd01bd345b",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[DAOhaus]]"}
+    {:block/id #uuid "636086c0-cc5c-4d13-a85f-4b494ff964bc",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Meta Cartel]]"}
+    {:block/id #uuid "636086c9-550c-4535-b49c-08b41a1ce3b8",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Metaguides]]"}
+    {:block/id #uuid "636086cc-5e20-4b0f-ba77-b056eebde795",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[warcamp]]"}
+    {:block/id #uuid "636086d2-cb7f-41f8-ae5f-8e02aea3c294",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[NFTs]]"}
+    {:block/id #uuid "636086d5-49aa-463a-a857-232d8c88d399",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Defi]]"}
+    {:block/id #uuid "636086d8-163d-4c07-9c8c-834aeedb3522",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Public Nouns]]"}
+    {:block/id #uuid "636086de-f5a8-4a26-b9b1-7ac2a9a9e9e1",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Opensea]]"}
+    {:block/id #uuid "636086e1-b63d-476d-b57a-e37ef07fab32",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Gnosis Chain]]"})}
+  {:block/id #uuid "635e0d38-cca9-4bc4-b045-9a69018ee575",
+   :block/page-name "HoseMaster128",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-87be-43ed-81db-8a542f4234fe",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-ef52-49d5-8a90-3dab7cecac7d",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Reddit]]"})}
+  {:block/id #uuid "6360770a-1341-47df-bd80-f7ea699781cf",
+   :block/page-name "wtfispco.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "cee99f5a-af29-438e-a4cd-f24e5bd9e803",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360774f-e6b9-49b5-9995-6824369a0001",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-26d4-40f6-8638-f66e316ac103",
+   :block/page-name "Reddit",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-9d37-4e20-864c-31eb9fbdcb57",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-63cc-41b4-8795-bc1fea9d5075",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "[HoseMaster128](https://www.reddit.com/user/HoseMaster128)"})}
+  {:block/id #uuid "635e0d38-ee87-4ebb-a32b-7a0313bd58f0",
+   :block/page-name "proposal",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-c454-4a0c-a208-1fd896cc9952",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-076c-4a00-a9a2-c08104c978c9",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-0837-4357-94cf-99028c578dc8",
+   :block/page-name "Twitter",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-131f-4e25-a1e4-e690db3cae05",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-e3f6-4b41-9d50-cc9469f93d4c",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635f10fa-f20c-4c92-bcd3-32bcb2a7253d",
+   :block/page-name "DAOhaus DAOs",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "c2ad8d9f-b533-4321-a434-57ec82039444",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635f11c4-8986-43f8-9daa-1872524ab361",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "635f110d-aada-4e25-9846-633d9a2c8215",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "635f1195-44a8-471d-a815-00f1c57d4401",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[LPDAO SZN 3]]"}
+        {:block/id #uuid "635f11ad-49a1-4682-b7e4-a58aba51b287",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content ""}],
+       :block/content "[[Mainet]]"}
+      {:block/id #uuid "635f11d1-f200-40bd-b3f7-0123d61a3c81",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "635f11f0-2b6f-42d3-86d1-4a75a30a4de9",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Wordsmiths]]"}
+        {:block/id #uuid "635f1200-048e-4b14-b673-86e761cfe461",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Fair Launch NFT]]"}
+        {:block/id #uuid "635f1213-861b-49fe-9418-b01c419229f2",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[groundw3rk]]"}
+        {:block/id #uuid "635f122f-e0ac-4927-9c46-bcdee2cbcb13",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Harberger DAO]]"}
+        {:block/id #uuid "635f1240-9287-4384-979e-8f3a1ca315f5",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[The Yeeter]]"}
+        {:block/id #uuid "635f1256-192c-4627-a80d-ecac34b1ab86",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Raid Guild Season 4]]"}
+        {:block/id #uuid "635f126f-b661-44bb-bb13-0d2d0224b0fb",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Meta Cartel]]"}
+        {:block/id #uuid "635f1284-d1f1-4f1b-a1e3-9baeaa779dc1",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Metaguides]]"}
+        {:block/id #uuid "635f128d-aa1b-4218-b805-e3b1f73115dd",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Raid Brood Beer DAO]]"}
+        {:block/id #uuid "635f12a3-f38e-458f-80f3-e5de74d293c5",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[HAUS Grant Seekers]]"}
+        {:block/id #uuid "635f12b3-4511-4f73-9490-1338e18fcee6",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Daogroni DAO]]"}
+        {:block/id #uuid "635f12cb-f058-4eec-9734-40a49b55f8a3",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Creative Events]]"}
+        {:block/id #uuid "635f12eb-6ab2-4ad2-b3b9-2e0148d9d263",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[NFT Community DAO]]"}
+        {:block/id #uuid "635f12f8-20d9-40a0-a08e-0d0519f5ee37",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Warcamp]]"}
+        {:block/id #uuid "635f130a-40cc-4066-bbd1-258382e010b3",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Kokonut DAO]]"}
+        {:block/id #uuid "635f131a-04cd-4577-8143-989817f21c7c",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[HausRanger]]"}
+        {:block/id #uuid "635f1325-5c6e-4ab6-a631-feaad964dab2",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Haus Paladin]]"}],
+       :block/content "[[Gnosis Chain]]"}
+      {:block/id #uuid "635f1340-c89d-436a-a7a4-8299f194ea12",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "635f135b-bb22-4efd-9318-6c0e1abb52fb",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Fomo NFT DAO]]"}],
+       :block/content "[[Arbitrum]]"}
+      {:block/id #uuid "635f1364-8f13-4130-b334-24cbbc8fc64d",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "635f1389-531d-44fe-aff5-d743e40e678f",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "Many test [[DAOs]]"}],
+       :block/content "[[Goerli]]"}],
+     :block/content "v2"}
+    {:block/id #uuid "635f139b-7837-405d-855e-dec0f6bfd7df",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "635f13a6-50ab-47cb-83b0-4700302377bb",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "635f13b3-3964-4222-9489-57469285dd66",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[wgmi]]"}],
+       :block/content "[[Gnosis Chain]]"}],
+     :block/content "v3"})}
+  {:block/id #uuid "635e0d38-431d-4703-98b9-b1ff34dc5fab",
+   :block/page-name "Telegram",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "50a60daa-2b6f-4806-948f-65f4e46b3df6",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-6595-4e28-8e48-c6d3a3408ce4",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[boilerrat](https://t.me/boilerrat)"})}
+  {:block/id #uuid "635e0d38-932d-4e5e-9784-4081a2f111af",
+   :block/page-name "Governance",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-d4b9-4a87-93cb-4f3cd587005f",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-7e34-443e-8a67-e72692b36189",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-7c02-4b06-93ec-39b07fbbb45f",
+   :block/page-name "discord",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-b534-45a2-ac50-543b728808cb",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-9895-4998-9964-d91298eb2ad2",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "[boilerrat#8898](https://discordapp.com/users/boilerrat#8898)"}
+    {:block/id #uuid "635e0d38-1587-470d-9e09-8563ff596413",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-a44b-47ff-90ac-00e64dfa85dd",
+   :block/page-name "boilerrat.eth",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-2821-4d59-8c39-75553a2997cf",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-7215-447f-bf9e-be162c9136ea",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "#0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d"}
+    {:block/id #uuid "635e0d38-3131-4697-ad8e-0ae51375896b",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "https://app.ens.domains/address/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d"}
+    {:block/id #uuid "635e0d38-b2ff-404f-a3ed-42fc4b6754e0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-38c8-4e06-91d8-dbd694eea9ec",
+   :block/page-name "boilerat#8898",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-756d-4db3-8425-5668e19359ce",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-f08f-4d26-b529-fbead053d4b9",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-0066-4579-a582-18c7fa227ee6",
+   :block/page-name "ENS",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-7e0b-44c2-897c-84ca0e1b6eeb",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-a9bc-4309-8390-8b0ad3c59fb3",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[boilerrat.eth]]"}
+    {:block/id #uuid "6360760d-b514-4173-8f5c-3551d3d764ec",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[boilerrat]]"}
+    {:block/id #uuid "63607615-1044-4916-9e37-5af367ebc229",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "63607637-0735-4712-a6f2-351b94eaca5f",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#plowdao.eth"}
+      {:block/id #uuid "63607644-c9f2-49b6-8983-86273f4addf8",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#wtfispco.eth"}
+      {:block/id #uuid "63607669-fc4c-4d01-a234-a4fccb3d62ba",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#nftcommunitydao.eth"}
+      {:block/id #uuid "63607678-a80d-4d94-8a8a-bc55f0281915",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#genuinedead.eth"}
+      {:block/id #uuid "6360767e-f093-4e2a-b1b3-c80f35c4ddac",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#makhnoguild.eth"}
+      {:block/id #uuid "6360768c-3e47-4060-87a5-97b5dff2766e",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#lunaralliance.eth"}
+      {:block/id #uuid "63607694-d791-403a-89c2-b43dbce8c2ce",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#nftracingdao.eth"}
+      {:block/id #uuid "6360769f-c768-45e1-a17a-3aa4884a48f8",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#tractordao.eth"}
+      {:block/id #uuid "636076b2-07b6-45d1-891e-0ab040a0e738",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#daocamp.eth"}
+      {:block/id #uuid "636076b7-8a68-4f45-ad97-214998e1c12a",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#turtlesallthewatdao.eth"}
+      {:block/id #uuid "636076c8-cdc1-4212-99a5-e24f03190ef9",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#sherpadao.eth"}
+      {:block/id #uuid "636076d2-165b-42c6-a03a-9d2f7da8a0a9",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#incubedao.eth"}
+      {:block/id #uuid "636076dd-29f9-427b-b082-acc5a7be1c7f",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#granthaus.eth"}
+      {:block/id #uuid "636076e1-4dbd-49ec-817a-95de3aae528a",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#wickedawesomedao.eth"}
+      {:block/id #uuid "636076ed-298c-4d1c-a32b-8dbf43fc8e10",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#chriswylde.eth"}],
+     :block/content "ALso own the following ENS addresses:"})}
+  {:block/id #uuid "63607541-4eaa-44c8-baef-9a3bce22f0b0",
+   :block/page-name "Boilerrat#8898",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "63607542-ec21-48de-b2b3-6084d0213958",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Discord]]"})}
+  {:block/id #uuid "635e0d38-1bf9-47c2-b2ff-117952318486",
+   :block/page-name "Meta Cartel",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "635e0d38-6783-41cb-afc8-3cb4f75da278",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "[[DAOhaus]] [[WGMI]] [[Kokonut DAO]] [[ArtVx]][[Atlantis World]][[meToken]][[Llama]][[MetaGame]][[Snapshot]][[MetaFactory]][[Sablier]][[Gelato]][[Dappi]][[Odyssy]][[Zapper]][[yearn]][[Hats Protocol]][[metaguides]][[grants]]"})}
+  {:block/id #uuid "63607733-a994-4d7a-aa8d-59dbe32cc87d",
+   :block/page-name "incubedao.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "cb2aa457-c483-467d-b62a-42688dcaed4d",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636077af-3944-4e3e-8738-ec7995c7bfb9",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "63607700-a7af-4815-a47f-503ecf4b4898",
+   :block/page-name "plowdao.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "ca8990ab-86cd-4899-ae09-a7a825595d57",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63607748-a2fc-4a56-aceb-5ea70de2fb4d",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635fb87b-10db-4e32-ab4d-985fca3dd445",
+   :block/page-name "Boiler(Chris)",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "a2b1e2e1-e5db-40ac-949e-21b59c2f2161",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360750d-6e2c-409f-9d8b-bfa984a3ed13",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Discord]]"})}
+  {:block/id #uuid "635e0d38-5028-4f4e-be52-a8ab1b96ab64",
+   :block/page-name "DAOgroni",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-b980-411e-9443-c62a611edf91",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-d8d6-4ee2-8053-5b29032250e0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "63607368-4d66-434b-b32e-d33e92c7e2a5",
+   :block/page-name "website",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "d984f7fc-dd3b-4ec7-894b-ca475914c4e6",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636073c4-4b99-4f4a-9114-e2b075787ff0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635fb89a-415f-4d12-b9c1-d90246ccf2aa",
+   :block/page-name "_Metaguides",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "63607574-3b49-4981-8d3e-996267c65282",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Metaguides]]"})}
+  {:block/id #uuid "635f3a2e-ba82-4688-8bb1-166a0f52e8c0",
+   :block/page-name "Public Nouns",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "635fb2ae-9149-4eba-bdb3-d364feaf3866",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![pNouns_grid-4x2.png](../assets/pNouns_grid-4x2_1667216055709_0.png)"}
+    {:block/id #uuid "635fb26a-93e3-4ccb-8573-8499b88555f5",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Public Noun]]"}
+    {:block/id #uuid "635fb27a-23d0-4120-a674-718e3fc4ada0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635fb873-8855-4e92-9276-3bc333a3ec9f",
+   :block/page-name "Boiler",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "63607587-2807-44a4-8ebb-4b143f8a873a",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "A lot of time people shorten it to this in voice calls."})}
+  {:block/id #uuid "635e0d38-cf30-43f7-a219-e3f578d94ecd",
+   :block/page-name "Curriculum Vitae",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-2104-4e51-9c0c-70b4c8f4336c",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-9f6a-416a-b805-ff54aae66428",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![HiDef Explorer shrunk.png](../assets/HiDef_Explorer_shrunk_1667104381611_0.png)"}
+    {:block/id #uuid "635e0d38-4d8a-4d7a-8ea7-7a9ea2179219",
+     :block/properties {:background-color "green", :heading 2},
+     :block/format :markdown,
+     :block/children [],
+     :block/content "## [[Chris Wylde]]"}
+    {:block/id #uuid "635fb2f9-c919-4c24-a5de-d1e5d68c63d6",
+     :block/properties {:background-color "blue", :heading 3},
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "635fb32f-140b-4614-9013-4fdacfef088c",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "[[Names]]"}
+      {:block/id #uuid "635fb3e6-e515-4182-8813-702f2868634d",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "[[pfps]]"}],
+     :block/content "### [[Personas]]"}
+    {:block/id #uuid "635e0d38-7dbc-45a7-a0ee-6bca326f92c2",
+     :block/properties {:background-color "blue", :heading 3},
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "635e0d38-6208-45ea-9d71-91f95f9797d8",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#Home: [[Point Clark, ON]]"}
+      {:block/id #uuid "635e0d38-ec53-4a57-ae48-6435fe4f0179",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#Phone: Upon Request"}
+      {:block/id #uuid "635e0d38-8673-47ed-ba8f-ed09a21f4afd",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "#Email: [128boilerrat@gmail.com](mailto:128boilerrat@gmail.com)"}
+      {:block/id #uuid "6360646d-55ca-4011-b7d5-46c8f358843e",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "#Github: [boilerrat](https://github.com/boilerrat)"}
+      {:block/id #uuid "635e0d38-0f80-40ae-85ef-746031a5e43e",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "#Discord: [boilerrat#8898](https://discordapp.com/users/boilerrat#8898)"}
+      {:block/id #uuid "635e0d38-b991-4c33-b7b7-9d0cd0978869",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#Telegram: [boilerrat](https://t.me/boilerrat)"}
+      {:block/id #uuid "635e0d38-2516-4e62-8b9d-b9ecfef62b0c",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "#Reddit: [HoseMaster128](https://www.reddit.com/user/HoseMaster128)"}
+      {:block/id #uuid "635e0d38-269a-4721-bddb-bfa9a50cea11",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "#Lens: [boilerrat.lens](https://www.lensfrens.xyz/boilerrat.lens)"}],
+     :block/content "### [[Contact]]"}
+    {:block/id #uuid "635e0d38-3099-4b5b-9ecf-375b79ca6106",
+     :block/properties {:background-color "blue", :heading 3},
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "635f3596-b353-4b06-8a50-1f8c4cbdd0d3",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content ""}
+      {:block/id #uuid "635e0d38-628b-4a87-b9ff-1c7af1aee86b",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "Public Address: [[0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d]]"}
+      {:block/id #uuid "635e0d38-5dd7-4633-833f-e095ac7abb7b",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "#ENS: [boilerrat.eth](https://app.ens.domains/address/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d)"}],
+     :block/content "### [[Etherum]]"}
+    {:block/id #uuid "635e0d38-a519-41a0-9591-fd2fbb5c9a28",
+     :block/properties {:background-color "blue", :heading 3},
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "635f3947-722a-4726-a995-a21093db0970",
+       :block/properties {:heading 4, :background-color "purple"},
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "635e0d38-bf0d-4c76-951d-48183d487304",
+         :block/properties {:background-color "red", :heading 4},
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "635f3ab2-f60e-4767-abe9-c52f48ba3eff",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content "[[Member]]"}
+          {:block/id #uuid "635e0d38-7300-4550-b471-49effba24537",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "635e0d38-3f6b-4608-9c9d-e84b75577b07",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Assisted with [[DAO]] operations and governance."}
+            {:block/id #uuid "635e0d38-e325-4077-b47a-47417748440f",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Product research and testing including projects such as [[yeet]] and [[DAOgroni]] ."}
+            {:block/id #uuid "635e0d38-ef20-43e3-8a04-5c44b26b8242",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "DAO summoning workshops and product support on [[discord]]."}],
+           :block/content "[[Warcamp]]: DAOhaus' core contributors."}
+          {:block/id #uuid "635e0d38-976d-4aee-91ac-77078ebc119a",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "[[Grant Seekers]] - Worked with other contributors to write [[grants]] to aide in DAOhaus' mission of being a #community funded project for [[public goods]]."}
+          {:block/id #uuid "635f106e-42d4-4d0c-9dd5-60a962cf7bd0",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "Check out the [[DAOhaus DAOs]] I am a member of."}],
+         :block/content "#### [[DAOhaus]]"}
+        {:block/id #uuid "635e0d38-f3c8-4ead-9655-8b9c53a67eef",
+         :block/properties {:background-color "red", :heading 4},
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "635f3a8f-89ce-4a66-8983-5b5949ac7faa",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content "[[Member]]"}
+          {:block/id #uuid "635e0d38-18a4-4040-9ee6-0b76125654f6",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "635e0d38-99a5-4e7d-8412-517522905385",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Assisted projects making a [[proposal]], through the grant process providing [[consultation]] and guidance . Continued with assistance post [[grant]]"}
+            {:block/id #uuid "635e0d38-a78a-4f48-a96b-433ed4c506ff",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Organized and Hosted a [[Twitter]] [[spaces]] to feature grant recipients."}
+            {:block/id #uuid "635e0d38-5e0b-4ffd-b308-629d3711e364",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content "[[Operations]] and [[Governance]]"}
+            {:block/id #uuid "635eca7a-d182-4e6f-acf6-24aeb6ce486b",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children
+             [{:block/id #uuid "635eca9d-81b5-43cb-b40b-a83d935bdba9",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content "[[Hats Protocol]]"}
+              {:block/id #uuid "635ecaef-9138-4e26-a1fe-e16f7491e2e2",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content "[[Kokonut DAO]]"}
+              {:block/id #uuid "635ecb07-404f-404f-a1b9-2c61e1032893",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content "[[ArtVx]]"}
+              {:block/id #uuid "635ecb17-1c4f-4ca5-b052-6e739df77335",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content "[[Battlezips]]"}
+              {:block/id #uuid "635ecb30-4795-480a-af1a-7324a4945778",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content "[[RnDAO]]"}],
+             :block/content
+             "Some project that I have assisted with grants and post grant work (having on as guests at twitter spaces) including:"}],
+           :block/content "[[Metaguides]]"}],
+         :block/content "#### [[Meta Cartel]]"}
+        {:block/id #uuid "635ec8e3-9268-4614-a735-ee7e21ab2a2c",
+         :block/properties {:heading 4, :background-color "red"},
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "635ec918-bd45-469c-8050-cb43ea97cca9",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "635ec92f-0b23-4e3a-aa4b-c20333e28590",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Provided guidance and access to network during start up and initial fundraise, including governance and community building."}],
+           :block/content "[[non-member]]\n[[Consultation]]"}],
+         :block/content "#### [[Moon DAO]]"}
+        {:block/id #uuid "635f39e4-4a3f-4c84-8e7d-03c2f328ab8b",
+         :block/properties {:background-color "red", :heading 4},
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "635f3a30-d5ce-4ed1-83b7-604e8e290198",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content "[[Member]]"}
+          {:block/id #uuid "635f3adf-6d0a-4697-b83f-a9c17e5fc1a9",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content "[[Public Noun]]"}],
+         :block/content "#### [[Public Nouns]]"}],
+       :block/content "#### [[DAOs]]"}
+      {:block/id #uuid "63606140-30cb-4590-b1f0-f4273f39fb94",
+       :block/properties {:background-color "purple", :heading 4},
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "63606182-d86b-47fe-bb10-9187a6b3c69e",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Opensea]]"}
+        {:block/id #uuid "636061ab-5845-4129-a0c9-b4140dd1b145",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "[[Gnosis Chain]]"}],
+       :block/content "#### [[NFTs]]"}
+      {:block/id #uuid "63606408-8dc4-4aa9-bc0a-d4feb73baf67",
+       :block/properties {:background-color "purple", :heading 4},
+       :block/format :markdown,
+       :block/children [],
+       :block/content "#### [[Defi]]"}],
+     :block/content "### [[Web3]]"}
+    {:block/id #uuid "63606557-e338-467b-989b-71a4c00d3dbb",
+     :block/properties {:background-color "blue", :heading 3},
+     :block/format :markdown,
+     :block/children [],
+     :block/content "### [[IRL]]"}
+    {:block/id #uuid "635f398d-1bdd-4808-8968-c4c180ec77cd",
+     :block/properties {:background-color "pink", :heading 2},
+     :block/format :markdown,
+     :block/children [],
+     :block/content "## More to Come"}
+    {:block/id #uuid "63606441-36c3-4736-8288-0d7850f8e170",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-70e8-4c40-b271-2334d6d0f21e",
+   :block/page-name "Chris Wylde",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-8a32-4cf8-9020-9add941d73e3",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-803a-4a12-9d72-876d4ce91a0d",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635f3b8a-4ce0-43b0-8f3a-1ff55eaf8dd8",
+   :block/page-name "Public Noun",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "635fb28b-21af-4160-8c46-83ca8f95eefd",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![pNouns_grid-4x2.png](../assets/pNouns_grid-4x2_1667216019358_0.png)"}
+    {:block/id #uuid "63607858-988f-4af0-9beb-cfc51b57bc19",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[NFTs]] for [[public goods]]"}
+    {:block/id #uuid "635fb0f8-b13d-4fc8-82d7-f72afbb46dd1",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "https://opensea.io/assets/ethereum/0x93ecac71499147627dfec6d0e494d50fcfff10ee/65/"}
+    {:block/id #uuid "635fb10b-1329-40d6-b0f7-3a2321cc97ae",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![f36c054d50f1a67e9dd57403311b85c0.svg](../assets/f36c054d50f1a67e9dd57403311b85c0_1667215678007_0.svg)"})}
+  {:block/id #uuid "63607725-9f9e-4693-abe1-8bb5e9528faa",
+   :block/page-name "tractordao.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "ecf5a8b3-cfd3-4378-b733-85e465d19b96",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360778d-b243-4ea6-8db7-7a66883af19b",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635eec10-57c1-49c1-908c-7051df0d007d",
+   :block/page-name "Email",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "635f2798-1d8a-4392-864f-24f3f56ad7b6",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "[128boilerrat@gmail.com](mailto::128boilerrat@gmail.com)"})}
+  {:block/id #uuid "635e0d38-8e7e-4729-800f-210b4c91a502",
+   :block/page-name "Kokonut DAO",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "8551bf88-5504-4457-aa4a-60f2084ccbd7",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635ecbc5-8bb8-40a1-9e95-d1deeb1a6926",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "63607722-8ab3-4784-bb6d-54c3387c1f03",
+   :block/page-name "nftracingdao.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "fb4c3566-f8c0-43cb-a546-4636e1a4f3aa",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "63607784-100b-4112-a58d-ad7fab3ff61a",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-965d-4ebd-b950-6e4eda5baad6",
+   :block/page-name "Community",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "a7bf70eb-76da-4925-9833-8ed798ce9f27",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636073f6-3c70-4c1f-a103-e0d84d453124",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-debc-4dcf-af48-ce3625d8ad61",
+   :block/page-name "spaces",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-fe56-4f32-953e-b8e82a337cec",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635e0d38-399c-4e13-8006-28e61bfed6aa",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Twitter]]"})}
+  {:block/id #uuid "635e0d38-c5e2-4347-8665-2c9782f58cf1",
+   :block/page-name "Social Media",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "635e0d38-0c9f-4106-9307-9319258bbe4a",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[discord]]"}
+    {:block/id #uuid "635e0d38-699d-421e-b8c9-c15fbe5c464d",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Lens]]"}
+    {:block/id #uuid "635e0d38-2f1b-41e0-83b8-3cdfdc38ef0a",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Reddit]]"}
+    {:block/id #uuid "635e0d38-50d4-4b1d-a1a6-dce21c6de56e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Twitter]]"}
+    {:block/id #uuid "635e0d38-48be-4e03-9e39-5f674357b337",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[GitHub]]"}
+    {:block/id #uuid "635e0d38-fce1-4d09-8df3-2260b51ad6bc",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "[[Discourse]]"})}
+  {:block/id #uuid "6360772c-2d2e-405a-a505-94c420d3659a",
+   :block/page-name "turtlesallthewatdao.eth",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "3e5333f7-a79e-4fe1-9693-fb15c24e6d84",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360779d-2eb1-49ec-94c4-90c895d08664",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-ad2b-4c61-ab7c-26b3faa1d725",
+   :block/page-name "DAOhaus",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "63608edd-f967-4135-a3c8-38e8c317b7e8",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "![daohauscircle.png](../assets/daohauscircle_1667272448722_0.png)"}
+    {:block/id #uuid "635e0d38-0b58-4aa3-8c6c-87e2f3b23abc",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "635e0d38-e8ed-48be-9b8a-1ddec27d50f1",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "[[Meta Cartel]] [[Moloch DAO]] [[yeet]] [[Raid Guild]] [[DAOgroni]] [[roundhaus]] [[pluriverse.wtf]] [[warcamp]] [[Grant Seekers]] [[DAO]] [[Community]] [[Discord]] [[public goods]] [[WGMI]] [[Kokonut DAO]] [[Odyssy]]"}],
+     :block/content "Connected to"})}
+  {:block/id #uuid "63607361-b186-4852-b701-d340e131b605",
+   :block/page-name "repo",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "e0531f48-f659-42fa-8c76-1115236c8061",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "636073c5-c50a-4429-9b13-5d3f0b283595",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635ec92f-c7a8-40cf-ac99-c9383d82a01d",
+   :block/page-name "Consultation",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "5436a4d2-d592-4351-9776-dae3e5446ab3",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635ec993-f7dd-4e42-9805-c4791a3cb8a0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "63607119-a178-4a7f-8061-1f89bea52d50",
+   :block/page-name "Repositories",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "fbdceeba-8c2b-4a34-a06e-b27fe74f5503",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360738d-0806-4560-ae60-0284ec02a0c1",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-0e96-4ab3-949e-b59b0680fe5b",
+   :block/page-name "ArtVx",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "2da225d6-19af-4a0a-95c9-18b4f7d48161",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635ecbcd-5f9f-4de1-b325-3527b294d472",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635ecb30-155e-474f-a01d-21c06d39c286",
+   :block/page-name "Battlezips",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "635ecbe4-15b8-45fc-b43f-e7d4eb082186",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "https://www.battlezips.com/"})}
+  {:block/id #uuid "6360614e-83f2-4bbf-9f20-e3b44ecbb7e5",
+   :block/page-name "NFTs",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "23c9a09a-51e8-4c4e-9ee9-96eb0e29c4fb",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6360620a-389e-41d6-ab45-03b9cd031b42",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-4cf6-4c99-8d31-8f1a8339a86e",
+   :block/page-name "Hats Protocol",
+   :block/properties {:public true},
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "06ccd46d-e32c-4834-b24b-f2035019fa16",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635ecbb6-1508-4f65-81df-2ae0c925d007",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "635e0d38-1aaf-44b7-8d44-2b75f7f80956",
+   :block/page-name "0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+   :block/properties {:public true},
+   :block/children
+   ({:block/id #uuid "635e0d38-f830-440f-b89c-cd7061db4188",
+     :block/properties {:public true},
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "635f358b-4594-404d-9139-d51336837d01",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "[boilerrat.eth](https://app.ens.domains/address/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d)"})})}
