@@ -1,0 +1,79 @@
+body {
+    background-color: #1d1d1d;
+    border: none;
+    color: #444;
+    font-family: "helvetica",sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .btn {
+    background: #333;
+  }
+  
+  .btn:hover {
+    background-color: #567730;
+  }
+    
+  .header-inner {
+    position: relative;
+    text-align: center;
+  }
+  
+  .site-title {
+    font-size: 2.25em;
+    font-family: "helvetica",serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0,0,0,.25);
+  }
+  
+  .site-title a {
+    color: #fff;
+  }
+  
+  .site-title a:hover {
+    color: #567730;
+  }
+  
+  .site-description {
+    color: #999;
+    font-size: 1.1em;
+    font-weight: 400;
+    line-height: 110%;
+    margin: 20px 0 0;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+  }
+  
+  .image-border {
+      border: 10px solid #567730;
+      box-sizing: border-box;
+  }
+  .section-header {
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    border: 1px solid #fff; /* Add a thin white border */
+    padding: 10px; /* Add some padding */
+    box-sizing: border-box; /* Include border and padding in the element's total width and height */
+  }
+  .figure img {
+    height: 250px; /* Set a maximum height for the images */
+    object-fit: cover; /* Resize the images to cover the entire area while maintaining the aspect ratio */
+  }
+  .figure figcaption {
+    text-align: center; /* Center the caption */
+    color: #fff; /* Set the text color to white */
+    font-family: "helvetica",sans-serif; /* Match the font with the rest of the webpage */
+    font-size: 1em; /* Set the font size */
+  }
