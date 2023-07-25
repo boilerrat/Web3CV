@@ -2,8 +2,8 @@ body {
   background-color: #1d1d1d;
   border: none;
   color: #444;
-  font-family: "helvetica",sans-serif;
-  font-size: 18px;
+  font-family: "Inter",sans-serif;
+  font-size: 20px;
   margin: 0;
   padding: 0;
   -webkit-font-smoothing: antialiased;
@@ -15,6 +15,8 @@ a:hover {
 
 .btn {
   background: #333;
+  padding: 20px; /* Increase Button Height */
+  font-size: 1.2em; /* Increase button font size */
 }
 
 .btn:hover {
@@ -70,11 +72,34 @@ a:hover {
 }
 .figure img {
   height: 400px; /* Set a maximum height for the images */
+  max-width: 100%;
   object-fit: cover; /* Resize the images to cover the entire area while maintaining the aspect ratio */
 }
 .figure figcaption {
   text-align: center; /* Center the caption */
   color: #fff; /* Set the text color to white */
-  font-family: "helvetica",sans-serif; /* Match the font with the rest of the webpage */
+  font-family: "Inter",sans-serif; /* Match the font with the rest of the webpage */
   font-size: 1em; /* Set the font size */
+}
+/* Media query for screens smaller than 600px */
+@media (max-width: 600px) {
+  body {
+      font-size: 18px;
+  }
+
+  .btn {
+      padding: 15px;
+      font-size: 1em;
+  }
+}
+/* Media query for screens smaller than 400px */
+@media (max-width: 400px) {
+  body {
+      font-size: 16px;
+  }
+
+  .btn {
+      padding: 10px;
+      font-size: 0.8em;
+  }
 }
