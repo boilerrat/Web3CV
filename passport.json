@@ -1,0 +1,1030 @@
+{
+	"issuanceDate": null,
+	"expiryDate": null,
+	"stamps": [
+		{
+			"provider": "Ens",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..MUtaaHCJPqvrGp1o-1gsBVYbJPIkvlKxAW8ENGc-j_TfPA1iL6H8AUBU7WHzAlUWXaB8H95xTjjHOHf9hdJ4Bw",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:08:58.023Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:08:58.023Z",
+				"expirationDate": "2023-10-22T10:08:58.023Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:eJ8vgMLKumg29kAVHlqomLLjLpP+aNMo/ngRe2KFCmQ=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "Ens"
+				}
+			}
+		},
+		{
+			"provider": "NFT",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..bqD_xN8X2VBLYFjaArkpNI_kFZrU2k4WkvM5Idbc2Isd1BuWFcrVCag07axOHz1V5K3XhWVkvlNbaBJZxV1ABQ",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:08:58.163Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:08:58.162Z",
+				"expirationDate": "2023-10-22T10:08:58.162Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:inrMdWxTZzyYjdtNpYs7stPI+t8qZwtlTEUCLJubRCU=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "NFT"
+				}
+			}
+		},
+		{
+			"provider": "SnapshotVotesProvider",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..uW1BA658u9fqUlgkS_72fb7LoAuNQUgU2lCiwWlVTpMtKGqzy9k_cV0J2DuZvb3dFY47WBqhpEerMWvl5eVhBA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:08:58.321Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:08:58.321Z",
+				"expirationDate": "2023-10-22T10:08:58.321Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:CDUu5QVgyMVh3EEnVweAs4CMZzXEvXLGyeg28pgCfC8=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "SnapshotVotesProvider"
+				}
+			}
+		},
+		{
+			"provider": "SnapshotProposalsProvider",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..GXHpbdWgC4Q3b6OmxdtUZV9B00di0tjjUgaga3Ap5TFvV_ChdcykzxFy4l4b66lx0DNcmUD1We71qq_TUG1xAg",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:08:58.484Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:08:58.484Z",
+				"expirationDate": "2023-10-22T10:08:58.484Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:L4vFAEiy0xaQKNunefKX/68X+CLHoZJbTquHwUF87J4=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "SnapshotProposalsProvider"
+				}
+			}
+		},
+		{
+			"provider": "Lens",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..3B74Q0DRgtpl-jxdv_PLHLifwu66KRm59kmNU1lnwVwN8bbGXmzxvZy1ZSCQLCc9NMuYIgXTyR6g-cTPp8z3Bg",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:08:58.710Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:08:58.710Z",
+				"expirationDate": "2023-10-22T10:08:58.710Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:JeaU2m0e1a3S5YrZ6gYzzfnJ2lFe8WL2nl8bS88h6Jw=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "Lens"
+				}
+			}
+		},
+		{
+			"provider": "GnosisSafe",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..PwxWetSFmM99i2ugxY5zAbLwuiQSh1cu05J4TTz9RwqzBemNEZHZEhhxY8ef5zp1Y1rj0VUrcwYwYHsx2AePDw",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:08:59.003Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:08:59.003Z",
+				"expirationDate": "2023-10-22T10:08:59.003Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:h3e0ZZQvv5C4wnxU5EcMKVPbRIK/F6isGDf+6Kg7R+M=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GnosisSafe"
+				}
+			}
+		},
+		{
+			"provider": "FirstEthTxnProvider",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..Yc-HQ3QbL1b4cQM1V4OOlgmojinAdik0pfqTvjHZz-VG1yVgtjNYAk3UpeSrGjQiV5HgFo9hrH7fhatQlbQiDA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:08:59.536Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:08:59.536Z",
+				"expirationDate": "2023-10-22T10:08:59.536Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:n+GKpy+z6WR1cU3sm0KPZohKb37HJAGrugZWP4FpoQk=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "FirstEthTxnProvider"
+				}
+			}
+		},
+		{
+			"provider": "EthGTEOneTxnProvider",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..XWOhw2ucW7WYNjOJq4Q9Ni9v45DWkHDPyTRRV6Jhu3moWQmft2gd9XP6NCsl-Oias2xRltfkmerNilK10VTHDQ",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:01.261Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:01.261Z",
+				"expirationDate": "2023-10-22T10:09:01.261Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:bO60QUeUJHeURVptA3jqqSlccjPanofgTrdjvSQkIzQ=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "EthGTEOneTxnProvider"
+				}
+			}
+		},
+		{
+			"provider": "EthGasProvider",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..2pOZLDIu8ZUpErU0V42raCI9gTH9eOg8FJA4vd5YAFyam1G_gazdmzL22uZsVrc3rbCCBar9CjVopO7VSFXeCQ",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:03.257Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:03.257Z",
+				"expirationDate": "2023-10-22T10:09:03.257Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:2cXUSnQfMEtEYe9eunrFyfuBkZaF9/6+mfKG4UhSOLA=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "EthGasProvider"
+				}
+			}
+		},
+		{
+			"provider": "GuildMember",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..jkO0R-dit96sqk0zuiWmX9iocZ3VUyO5jKqbiJvHxVTakq5OWgrJtqcc9LIczf2o4B6AwjjSWmLlEkjQDTyRCA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:06.597Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:06.597Z",
+				"expirationDate": "2023-10-22T10:09:06.597Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:AUtGXSBftKZ5KGS5JBP8zSbgKcALobMPTmV1D9c5A/s=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GuildMember"
+				}
+			}
+		},
+		{
+			"provider": "githubAccountCreationGte#90",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..rQzc0c1KZP7YSgYA080VtcgcZEqpYmU9hhTK1YqVTWp_UjbyDy_7L_rK1H_lf07dJ0GreBuGH2k0LL_uu5bGBQ",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:36.667Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:36.667Z",
+				"expirationDate": "2023-10-22T10:09:36.667Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:jwhN1l0Y9YFTB5R9Xh1sG3CwtmAK4YQA1x4Dy98/ESg=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "githubAccountCreationGte#90"
+				}
+			}
+		},
+		{
+			"provider": "githubAccountCreationGte#180",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..qFRM4TcKJlLc4fk4QnmYg5nynxFDjzaR8FkFnomN2BT2KHxePU40l8v6dbQKvlBx7TAaohZwpifkrD6Zx3PYCA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:36.669Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:36.669Z",
+				"expirationDate": "2023-10-22T10:09:36.669Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:r2aeIwWzt3nZd7CvHDEaxuCkq+Kyq9xfXs7K12Lz+ug=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "githubAccountCreationGte#180"
+				}
+			}
+		},
+		{
+			"provider": "githubAccountCreationGte#365",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..ZjJySm3u7KvzPdc4Pqz6G0CzE-nqiyTRBVsVlNOAWj9kM8T6Ll2H5mlIyxy-wvps7AiH466M2BFov2vsmKlzCA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:36.672Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:36.672Z",
+				"expirationDate": "2023-10-22T10:09:36.672Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:sg40B/Isn9c4QjzkmxwAfu+a7gOp+0nbwfl1EGQ8l+U=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "githubAccountCreationGte#365"
+				}
+			}
+		},
+		{
+			"provider": "githubContributionActivityGte#30",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..ZARKs3G6uEj3JvlgDx94nSY83pWZGMMlXNrHV_jFc-eBfw4-Akb8f7lYDa6tkzssDycFMEZZYdjETNUGbLvIBQ",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:37.675Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:37.675Z",
+				"expirationDate": "2023-10-22T10:09:37.675Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:vmCqFn/F/AkfsJYsb47L6mMKfPlnTyIn8/pUy327RL4=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "githubContributionActivityGte#30"
+				}
+			}
+		},
+		{
+			"provider": "githubContributionActivityGte#60",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..SJ7Pfc6wRuE1Tcfh8k75TWQKS3VzsnTSU1w5Z04y3nucoQXnTsWK6XOAWn9fn6Gj3Wk09hLSzTmxk3KafATMDg",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:38.677Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:38.677Z",
+				"expirationDate": "2023-10-22T10:09:38.677Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:Zf9IzQBjTKGKsb1xnzu1saGr9bHlMpH4hyr25WubBiA=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "githubContributionActivityGte#60"
+				}
+			}
+		},
+		{
+			"provider": "githubContributionActivityGte#120",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..ftXCAXTYGalHf4ZMSE8kP99G5GAVkK0yxrGW51CZuUFNj1IEHW1vEOkPAR-z1EUDtH6uzUxtxdKxowi2YBxyBw",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:39.679Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:39.679Z",
+				"expirationDate": "2023-10-22T10:09:39.679Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:yCtbOhFYWT4IZs2hVaNn3BAQ3BdlDNAKJOdUr7Ok6GA=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "githubContributionActivityGte#120"
+				}
+			}
+		},
+		{
+			"provider": "Discord",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..pOQ6pr32gKBw1mzBdYC_WnHfvciYw-zeu5GUw8HEHpknQtdAfJkzOkbLKFq1LjItnKueDrWb6PqfpHc31WNhDQ",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:09:53.470Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:09:53.470Z",
+				"expirationDate": "2023-10-22T10:09:53.470Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:b86bHWc/cgy/ll8hG2YLV0gkjU3DXOf0VgAm6Ch2ddY=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "Discord"
+				}
+			}
+		},
+		{
+			"provider": "Google",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..-zv_-W2qh1OtGb06ZnIrbblhPOWLptz38DLpccRc1_2IaU64e39fEg28bQpUosF0n7r4SzLsR5T7Pvh-FcaMDg",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:10:10.774Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:10:10.774Z",
+				"expirationDate": "2023-10-22T10:10:10.774Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:fmhVACRFajrjYLVafIW5gt7Ppvva8+iQBXE6XSnavJo=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "Google"
+				}
+			}
+		},
+		{
+			"provider": "Brightid",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..1TvczGlKusQH2WI9SIDMvJ79nlQOLxSuYb7VnUxI3Yv59MDsmUyd6YjQsqCy7AkgRgxp0U0LUyahlEW6CJ6jCA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-24T10:10:19.458Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-24T10:10:19.458Z",
+				"expirationDate": "2023-10-22T10:10:19.458Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:ejdiM+Ur94GAO3uF8v2H33dr4DaJit7164KzoB6QTTE=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "Brightid"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinContributorStatistics#numGrantsContributeToGte#1",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..9oS34qQE0MA5nKUL51nC9QcGy2VU6mqhuKToHefKvmZoT3mYq_ExV2TniEVRtvxsDQCJCAe81xfRBHIwdgjkCA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:31:35.362Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:31:35.362Z",
+				"expirationDate": "2023-10-24T02:31:35.362Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:aTE3U5bZEdVp5EGnpDK2P+ePgjAN0RVI7ErwBf0rK/8=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinContributorStatistics#numGrantsContributeToGte#1"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinContributorStatistics#numGrantsContributeToGte#10",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..sGDzSrgkHMKlcvtlOow5wJGd96BbqFO8QR1OZtAgwEE590zujt5Zu90e0Ml8dO0NRi9ti3eElxh8L6YfdSj7Dw",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:31:35.365Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:31:35.365Z",
+				"expirationDate": "2023-10-24T02:31:35.365Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:sOa6Z1wZiMhrL91o+RuhPRd/W00zppmu3CGb9eYg5zk=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinContributorStatistics#numGrantsContributeToGte#10"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinContributorStatistics#numGrantsContributeToGte#25",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..YTUhAX1EDem5YnT5KQgtRWL6HqWwa_1UjTwcRXRzFPefhQRdx3EJO-ldMfZjhmnDbgqNqF0L-Q9slQNCff0HDA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:31:35.368Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:31:35.368Z",
+				"expirationDate": "2023-10-24T02:31:35.368Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:jywtecs79D6rqIDoL9tKP62tCJz5iMkZdiJYhyB/kUA=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinContributorStatistics#numGrantsContributeToGte#25"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinContributorStatistics#totalContributionAmountGte#10",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..e7ONCjSOJRxPBuLltWK8797eyiuDM9LhmWIBD1m4Rfjb5o-T7tTbuFquHV7QSRAbxEpHsRvjC8aOzI1AYb54Dg",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:31:35.371Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:31:35.371Z",
+				"expirationDate": "2023-10-24T02:31:35.371Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:zGOoNWl0sqM89vw4DAdADW9wYkaBB6qS74/PQhv9KSQ=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinContributorStatistics#totalContributionAmountGte#10"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinContributorStatistics#totalContributionAmountGte#100",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..9SXU4_F-fIayGAJGRkhx0HD1m4lvIcASjZMOwssaVdAij8fkAroeS0W5KRcLHqjRfoY-OQ60jRZuBh6QvEOKCw",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:31:35.373Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:31:35.373Z",
+				"expirationDate": "2023-10-24T02:31:35.373Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:G72T7o/n4Z2IWwiU4Wezad/mLxb34+P4gfFrnAkWp+Q=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinContributorStatistics#totalContributionAmountGte#100"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinContributorStatistics#numGr14ContributionsGte#1",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..d4TnVd55NIxxxYZ8ahWzhaa4PyYJjLnsuwbWDWi0K7r55bmXHbH6Dtdavfj9UUWWabQjDDbf7o0wWucrDXcjCA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:31:35.376Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:31:35.376Z",
+				"expirationDate": "2023-10-24T02:31:35.376Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:mngL8/xL62M7z3F1/ec40pxiE6Vk2tMaGhCIXKMEJK0=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinContributorStatistics#numGr14ContributionsGte#1"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinContributorStatistics#numRoundsContributedToGte#1",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..o_vo134cDCHMl_a_7kj-WpPplke4co5hOtb9kBTl-hgbfCxNMS6yK4IrjzMD1Zt4VYP_Y_il8pCaAh0djTJyDA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:31:35.379Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:31:35.379Z",
+				"expirationDate": "2023-10-24T02:31:35.379Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:gnSekuQ47GRMNw1ZY0Fq9cjZro+vWAPanPtNu6/ijDY=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinContributorStatistics#numRoundsContributedToGte#1"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinGranteeStatistics#numOwnedGrants#1",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..GDqmTRKZrWglH-sK-JaAFhRtzP6Qd0sPyoQ1zqW71Kg_TiQQ-fhAWwg3xlVq3KgTOJJmqLg0w2RXSqhgq154Ag",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:32:04.199Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:32:04.199Z",
+				"expirationDate": "2023-10-24T02:32:04.199Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:Vs9r4X5fV/GSq6oBRyUnH/im7pA2fNlpjzOPFmRt/dE=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinGranteeStatistics#numOwnedGrants#1"
+				}
+			}
+		},
+		{
+			"provider": "GitcoinGranteeStatistics#numGrantContributors#10",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..Jv3TTvtrcQiIuINVp1QKJwYj1a2jdEHV8V5AB087kM15_dY2CJ0HCVvxmGvI0BjXAep9_PNRMp22ulQ2QyEFDg",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:32:04.202Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:32:04.202Z",
+				"expirationDate": "2023-10-24T02:32:04.202Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:R2o9VPferjQiySL6LajpbHvRGsdVurb/oZzPeIfKqKA=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "GitcoinGranteeStatistics#numGrantContributors#10"
+				}
+			}
+		},
+		{
+			"provider": "twitterAccountAgeGte#180",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..sICLsMIU-wBJo4gamRI2so0GmEmv8I8tRWwMgK_rhFp1tMeu1ZoFXYFSfM3u2PuqD5lAjpazkuDqZypljYXsCA",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:32:42.314Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:32:42.313Z",
+				"expirationDate": "2023-10-24T02:32:42.313Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:2AYuPneuk20S0L8TFRFlucZc9nuJ2brIlps/G9b617M=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "twitterAccountAgeGte#180"
+				}
+			}
+		},
+		{
+			"provider": "twitterAccountAgeGte#365",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..LOwdWHhImHGRq4UaQgHKCRTkHHQfPK30matSqHWBYKaL2CR7jZ2O8fKbMt_NpxqTtARdn_wVOconOaM_BycwBQ",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:32:42.316Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:32:42.316Z",
+				"expirationDate": "2023-10-24T02:32:42.316Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:G++JQqv2FNJNozmpAsPySPOTHCXreE93ycVKf8diBnI=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "twitterAccountAgeGte#365"
+				}
+			}
+		},
+		{
+			"provider": "twitterAccountAgeGte#730",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..YpyugFKT8_Fs96VbRIgc9i8F85SdMrWvz4s52Z_qNB4BTjc73AxCLrMfAJI2fJXAGAhuxs_8y21541SiBI62Bg",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T02:32:42.319Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T02:32:42.319Z",
+				"expirationDate": "2023-10-24T02:32:42.319Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:xy9IHdpPe4UADoW2lhBKm8ZqIwKRByjcs884h6BlW8M=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "twitterAccountAgeGte#730"
+				}
+			}
+		},
+		{
+			"provider": "PHIActivitySilver",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..OIBbuqOqbnK-yYsBXxKilOt5CC_Mi8qAnceDH965RWMYa7Bg20AqjyGc9QjP0Eftddme6QaZ-pdkB9_J4pGKBQ",
+					"type": "Ed25519Signature2018",
+					"created": "2023-07-26T03:27:10.299Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2023-07-26T03:27:10.299Z",
+				"expirationDate": "2023-10-24T03:27:10.299Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+					"hash": "v0.0.0:VWrG3GU9iI0nD+EV9FazvCwnIQRnp0Rh5BSPjP4ehiU=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "PHIActivitySilver"
+				}
+			}
+		}
+	]
+}
