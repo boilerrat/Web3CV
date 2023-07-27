@@ -13,7 +13,6 @@
 
 </head>
 <body>
-  <button id="connectWalletButton" class="btn btn-dark" style="position: fixed; top: 10px; right: 10px;">Connect Wallet</button>
     <div class="header-inner section-inner my-5">
       <h1 class="site-title">    
         <a href="https://www.chriswylde.xyz/" rel="home">
@@ -176,27 +175,5 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fontawesome-iconpicker/3.2.0/js/fontawesome-iconpicker.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@walletconnect/web3-provider@1/dist/cjs/index.min.js"></script>
-    <script>
-      const button = document.getElementById('connectWalletButton');
-      button.addEventListener('click', async () => {
-        // Create WalletConnect Provider
-        const provider = new WalletConnectProvider({
-          infuraId: "113308962c114124ba65dd93a5390a2e",
-        });
-    
-        // Enable session (triggers QR Code modal)
-        await provider.enable();
-    
-        // Create Web3 instance
-        const web3 = new Web3(provider);
-        
-        // Get accounts
-        const accounts = await web3.eth.getAccounts();
-    
-        // Update button text with the connected account
-        button.textContent = `Connected: ${accounts[0]}`;
-      });
-    </script>
-    
 </body>
 </html>
