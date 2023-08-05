@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/56ab309fdd.js" crossorigin="anonymous"></script>
+    <link rel="icon" href="https://i.imgur.com/Clv3Y1dt.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Gloock&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Handjet&family=Inter&display=swap" rel="stylesheet"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        /* Inlined CSS */
+          body {
+            background-color: #1d1d1d;
+            border: none;
+            color: #444;
+            font-family: "Inter",sans-serif;
+            font-size: 20px;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+          }
+          
+          a:hover {
+            text-decoration: none;
+          }
+          
+          .btn {
+            background: #333;
+            padding: 20px; /* Increase Button Height */
+            font-size: 1.2em; /* Increase button font size */
+          }
+          
+          .btn:hover {
+            background-color: #567730;
+          }
+            
+          .header-inner {
+            position: relative;
+            text-align: center;
+          }
+          
+          .site-title {
+            font-size: 2.75em;
+            font-family: "Gloock",cursive; /* Updated to Gloock font */
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+            text-shadow: 1px 1px 2px rgba(0,0,0,.25);
+          }
+          
+          .site-title a {
+            color: #fff;
+          }
+          
+          .site-title a:hover {
+            color: #567730;
+          }
+          
+          .site-description {
+            color: #999;
+            font-size: 1.1em;
+            font-family: "Inter", sans-serif;
+            font-weight: 400;
+            line-height: 110%;
+            margin: 20px 0 0;
+            text-align: center;
+            text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+          }
+          
+          .image-border {
+            border: 10px solid #567730;
+            box-sizing: border-box;
+          }
+          .section-header {
+            color: #fff;
+            font-size: 2em;
+            font-family: "Gloock", cursive; /* Updated to Gloock font */
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+            margin-top: .5em;
+            margin-bottom: .5em;
+            border: 1px solid #fff; /* Add a thin white border */
+            padding: 10px; /* Add some padding */
+            box-sizing: border-box; /* Include border and padding in the element's total width and height */
+          }
+          .figure img {
+            height: 400px; /* Set a maximum height for the images */
+            max-width: 100%;
+            object-fit: cover; /* Resize the images to cover the entire area while maintaining the aspect ratio */
+          }
+          .figure figcaption {
+            text-align: center; /* Center the caption */
+            color: #fff; /* Set the text color to white */
+            font-family: "Inter",sans-serif; /* Match the font with the rest of the webpage */
+            font-size: 1em; /* Set the font size */
+          }
+          /* Media query for screens smaller than 600px */
+          @media (max-width: 600px) {
+            body {
+                font-size: 18px;
+            }
+          
+            .btn {
+                padding: 15px;
+                font-size: 1em;
+            }
+          }
+          /* Media query for screens smaller than 400px */
+          @media (max-width: 400px) {
+            body {
+                font-size: 16px;
+            }
+          
+            .btn {
+                padding: 10px;
+                font-size: 0.8em;
+            }
+          }
+    </style>
+</head>
+<body>
+    <div class="header-inner section-inner my-5">
+        <h1 class="site-title">    
+          <a href="https://www.chriswylde.xyz/" rel="home">
+            <img src="https://en.gravatar.com/userimage/28803791/eb0d590383693b2cbaefb2379c9afe7a.jpeg?size=256" class="rounded-circle mx-auto d-block mb-3 image-border" />
+            Boiler(Chris)
+          </a>
+        </h1>
+        <p class="site-description">Web3 Futurist - DAO Design, Governance and Operations</p>
+      </div>
+      <div class="container">
+        <div class="row mb-4">
+            <a class="btn btn-dark col-12 py-3" href="https://meetwithwallet.xyz/book.boilerrat" target="_blank" role="button">
+              <i class="fa-solid fa-calendar-plus"></i> Book Time -  Meet With Wallet
+            </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://calendly.com/boiler-chris/call-with-boilerrat" target="_blank" role="button">
+                <i class="fa-solid fa-calendar-plus"></i> Book Time - Calendly
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://app.ens.domains/boilerrat.eth" target="_blank" role="button">
+                <i class="fa-brands fa-ethereum"></i> ENS - boilerrat.eth
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://etherscan.io/address/0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d" target="_blank" role="button">
+                <i class="fa-solid fa-chart-simple"></i> Etherscan
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://www.metokens.com/profile/0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d/" target="_blank" role="button">
+                <i class="fa-solid fa-coins"></i> meToken
+              </a>
+        </div>
+        <div class="row mb-4">
+          <a class="btn btn-dark col-12 py-3" href="https://quest.philand.xyz/account/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d" target="_blank" role="button">
+            <i class="fa-solid fa-cube"></i> PhiLand
+          </a>
+    </div>
+        <div class="row mb-4">
+          <div class="col-12">
+            <h2 class="section-header">Social Media and Contacts</h2>
+          </div>
+        </div>
+        <div class="row mb-4">
+             <a class="btn btn-dark col-12 py-3" href="https://twitter.com/boilerrat" target="_blank" role="button">
+                <i class="fa-brands fa-twitter"></i> Twitter
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://warpcast.com/boiler" target="_blank" role="button">
+                <i class="fa-solid fa-archway"></i> Farcaster
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://lenster.xyz/u/boilerrat" target="_blank" role="button">
+                <i class="fa-solid fa-binoculars"></i> Lens
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://mastodon.world/@boilerrat" target="_blank" role="button">
+                <i class="fa-brands fa-mastodon"></i> Mastadon
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://github.com/boilerrat" target="_blank" role="button">
+                <i class="fa-brands fa-github"></i> Github
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://www.linkedin.com/in/christopherwylde/" target="_blank" role="button">
+                <i class="fa-brands fa-linkedin"></i> Linkedin
+              </a>
+        </div>
+        <div class="row mb-4">
+             <a class="btn btn-dark col-12 py-3" href="https://t.me/boilerrat" target="_blank" role="button">
+                <i class="fa-brands fa-telegram"></i> Telegram
+              </a>
+        </div>
+        <div class="row mb-4">
+              <a class="btn btn-dark col-12 py-3" href="https://discordapp.com/users/boiler_chris" target="_blank" role="button">
+                <i class="fa-brands fa-discord"></i> Discord
+              </a>
+        </div>
+        <div class="row mb-4">
+          <a class="btn btn-dark col-12 py-3" href="mailto:128boilerrat@gmail.com" target="_blank" role="button">
+            <i class="fa-solid fa-envelope"></i> Email 
+          </a>
+        </div>
+        <div class="row mb-4">
+          <div class="col-12">
+            <h2 class="section-header">DAO Memberships</h2>
+          </div>
+        </div>
+        <div class="row mb-4">
+          <a class="btn btn-dark col-12 py-3" href="https://admin.daohaus.fun/#/molochv3/0x1/0x54e1826d462570a06a6bc44a78fdfbf0568aa2f3" target="_blank" role="button">
+            <i class="fa-solid fa-people-roof"></i> Boiler Family DAO
+          </a>
+        </div>  
+        <div class="row mb-4">
+          <a class="btn btn-dark col-12 py-3" href="https://www.daomasons.com/" target="_blank" role="button">
+            <i class="fa fa-chess-rook"></i> DAO Masons - Core Team, DAO Design and Operations
+          </a>
+        </div>
+        <div class="row mb-4">
+          <a class="btn btn-dark col-12 py-3" href="https://publichaus.club/" target="_blank" role="button">
+            <i class="fa-brands fa-fort-awesome"></i> Public HAUS - Champion (Delegate)
+          </a>
+        </div>
+        <div class="row mb-4">
+          <a class="btn btn-dark col-12 py-3" href="https://www.youtube.com/channel/UC2UTfuf0xkIrLcmdnd96bGA" target="_blank" role="button">
+            <i class="fa-solid fa-house"></i> DAOhaus - Warcamp (Core Contributor)
+          </a>
+        </div>
+        <div class="row mb-4">
+          <a class="btn btn-dark col-12 py-3" href="https://publicnouns.wtf/" target="_blank" role="button">
+            <i class="fa-solid fa-glasses"></i> Public Nouns - NFT Holder and Contributor
+          </a>
+        </div>
+        <div class="row mb-4">
+          <a class="btn btn-dark col-12 py-3" href="https://www.metacartel.org/" target="_blank" role="button">
+            <i class="fa-solid fa-pepper-hot"></i> Metacartel - Member and Contributor
+          </a>
+        </div>
+        <div class="row mb-4">
+          <div class="col-12">
+            <h2 class="section-header">Personal Profile Pictures</h2>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 col-sm-12 mb-4">
+              <figure class="figure">
+                <img src="https://i.imgur.com/Clv3Y1d.png" class="img-fluid rounded mx-auto d-block" alt="Public Noun 237">
+                <figcaption class="figure-caption text-center"><a href="https://etherscan.io/nft/0x93ecac71499147627dfec6d0e494d50fcfff10ee/237">Etherscan: Public Noun 237</a></figcaption>
+              </figure>
+            </div>
+            <div class="col-lg-6 col-sm-12 mb-4">
+              <figure class="figure">
+                <img src="https://i.imgur.com/qvJL6Rd.png" class="img-fluid rounded mx-auto d-block" alt="Public Noun 111">
+                <figcaption class="figure-caption text-center"><a href="">Etherscan: Public Noun 111</a></figcaption>
+              </figure>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-6 col-sm-12 mb-4">
+              <figure class="figure">
+                <img src="https://openseauserdata.com/files/f36c054d50f1a67e9dd57403311b85c0.svg" class="img-fluid rounded mx-auto d-block" alt="Public Noun 65">
+                <figcaption class="figure-caption text-center"><a href="https://etherscan.io/nft/0x93ecac71499147627dfec6d0e494d50fcfff10ee/65">Etherscan: Public Noun 65</a></figcaption>
+              </figure>
+            </div>
+            <div class="col-lg-6 col-sm-12 mb-4">
+              <figure class="figure">
+                <img src="https://i.imgur.com/adQSaCJ.png" class="img-fluid rounded mx-auto d-block" alt="Boiler's Jerry">
+                <figcaption class="figure-caption text-center"><a href="https://etherscan.io/nft/0x42c4a46bd0f9c642e852a848a5b730b6e3086ccf/32">Etherscan: Boiler's Jerry</a></figcaption>
+              </figure>
+            </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fontawesome-iconpicker/3.2.0/js/fontawesome-iconpicker.min.js"></script>
+</body>
+</html>
