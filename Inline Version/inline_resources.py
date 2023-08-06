@@ -16,7 +16,7 @@ soup = BeautifulSoup(html_content, 'html.parser')
 
 # Inline CSS
 css_code = """
-    body {
+   body {
   background-color: #1d1d1d;
   border: none;
   color: #444;
@@ -129,6 +129,15 @@ style_tag = soup.new_tag('style')
 style_tag.string = css_code
 soup.head.append(style_tag)
 
+# Remove Font Awesome related tags
+for link_tag in soup.find_all('link', {'href': True}):
+    if 'font-awesome' in link_tag['href']:
+        link_tag.decompose()
+
+for script_tag in soup.find_all('script', {'src': True}):
+    if 'fontawesome' in script_tag['src']:
+        script_tag.decompose()
+
 # Inline external CSS files
 for link_tag in soup.find_all('link', {'rel': 'stylesheet'}):
     css_url = link_tag['href']
@@ -166,4 +175,4 @@ for font_link in soup.find_all('link', {'href': True}):
 with open('output.html', 'w') as file:
     file.write(str(soup))
 
-print("Inlining completed. Check the 'output.html' file.")
+print("Inlining completed. Font Awesome removed. Check the 'output.html' file.")
